@@ -27,3 +27,11 @@ Enables political analysts, journalists, and enthusiasts to gain deep insights i
 - Data Modeling
 
 ---
+
+---
+
+## Sample Dashboard
+<img width="1173" height="646" alt="image" src="https://github.com/user-attachments/assets/7942b9eb-08e4-4e23-9ca8-8fc631c01f50" />
+
+
+---
